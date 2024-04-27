@@ -1,4 +1,4 @@
-# Generate SCP Command faster for transfer files quickly
+# Generate SCP Command faster for transfering files quickly
 
 ### Installation
 Python3 is required to be installed in system, with path it's path added.
